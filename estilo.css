@@ -120,6 +120,7 @@ nav{
     font-family: 'Unica One', cursive;
     text-align: left;
     display: flex;
+    margin-top: 15px
     
     ;
 }
