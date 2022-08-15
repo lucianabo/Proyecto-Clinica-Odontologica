@@ -120,10 +120,6 @@ nav{
     font-family: 'Unica One', cursive;
     text-align: left;
     display: flex;
-    display: grid;
-    grid-column: 1/2;
-    grid-row: 3/4;
-    justify-items: stretch
     
     ;
 }
@@ -164,6 +160,8 @@ nav{
 
 .formulario{
     margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
 }
 /*estilo para servicios*/
 
