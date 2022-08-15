@@ -22,7 +22,11 @@ body{
     display: grid;
     
 }
-
+.iconowapp{
+    display: flex;
+    position:fixed;
+    justify-self: flex-end;
+}
 .header{
 
     align-items: center;
